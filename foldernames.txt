@@ -127,7 +127,7 @@ Vertebrater
 Zoologi
 Additional Reading
 course files
-Course Schedule
+emneklasser.Course Schedule
 Eksamen
 Forelesningsnotater
 Genetisk evolusjon Prokaryote
@@ -297,7 +297,7 @@ Stroma and Metastsis
 Bilder
 course files
 course files
-Course info
+emneklasser.Course info
 Papers for lectures
 Tronstad
 unfiled
@@ -730,8 +730,8 @@ Assignment A2
 Assignment A3
 Assignment A4
 Assignment A5
-Course assignments
-Course exercises
+emneklasser.Course assignments
+emneklasser.Course exercises
 course files
 Exercise E1
 Exercise E2
@@ -1482,7 +1482,7 @@ Photographs:Illustrations
 Scan Setup
 Ultrasound
 Ultrasound applications
-Ultrasound Lab Course
+Ultrasound Lab emneklasser.Course
 course files
 Exercises
 Lecture notes
@@ -3128,7 +3128,7 @@ exam
 3 Nov readings
 Anthropocene readings
 course files
-Course handouts
+emneklasser.Course handouts
 LK presentations
 Student presentations
 unfiled
@@ -3177,12 +3177,12 @@ Project Descriptions
 course files
 Assignment
 course files
-Course-Files
+emneklasser.Course-Files
 Kursmaterial
 Literature
 Assignments
 course files
-Course-Files
+emneklasser.Course-Files
 Exercises
 Handouts
 Perl-Scripts
