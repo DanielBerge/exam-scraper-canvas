@@ -1,3 +1,5 @@
+package emneklasser;
+
 import com.google.gson.*;
 
 import java.io.*;
@@ -77,7 +79,7 @@ public class CourseHenter {
             JsonArray array = root.getAsJsonArray();
 
             List<Course> objList = new ArrayList<Course>();
-            Pattern pattern = Pattern.compile("\\{\"course\":\\{\"id\":(\\d+),\"name\":\"(.+),\"account_id.+\"course_code\":\"(.+)\",\"default_view\":");
+            Pattern pattern = Pattern.compile("\\{\"course\":\\{\"id\":(\\d+),\"name\":\"(.+)\",\"account_id.+\"course_code\":\"(.+)\",\"default_view\":");
 
             for (int i = 0; i <array.size(); i++) {
                 Matcher matcher = pattern.matcher(array.get(i).toString());

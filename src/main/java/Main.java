@@ -1,4 +1,8 @@
 import com.google.gson.*;
+import emneklasser.Course;
+import emneklasser.CourseHenter;
+import filklasser.EmneFilHenter;
+import filklasser.FilToJson;
 
 import java.io.*;
 import java.net.MalformedURLException;
@@ -14,6 +18,9 @@ public class Main {
         //addFolderNamesToFile();
         //saveFileToJson();
         //saveLinksToFile();
+
+        LibraryDownloader lb = new LibraryDownloader();
+        lb.createDirectories(lb.loadJson());
     }
 
     /**

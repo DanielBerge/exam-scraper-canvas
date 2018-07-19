@@ -1,3 +1,5 @@
+package filklasser;
+
 public class FilToJson {
     private String navn;
     private String Emnekode;

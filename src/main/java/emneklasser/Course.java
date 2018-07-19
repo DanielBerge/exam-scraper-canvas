@@ -1,3 +1,5 @@
+package emneklasser;
+
 public class Course
 {
     private String self_enrollment_code;

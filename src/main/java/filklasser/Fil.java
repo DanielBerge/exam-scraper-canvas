@@ -1,3 +1,5 @@
+package filklasser;
+
 public class Fil
 {
     private String contenttype;

@@ -1,3 +1,4 @@
+package filklasser;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -101,8 +102,8 @@ public class EmneFilHenter {
 
 //    public void hentFiler() {
 //        String url = "https://mitt.uib.no/api/v1/courses/" + course_id + "/files/folder/Eksamensoppgaver?access_token=" + ACCESS_TOKEN;
-//        List<Fil> filer = hentArray(url, Fil.class);
-//        for(Fil fil: filer) {
+//        List<filklasser.Fil> filer = hentArray(url, filklasser.Fil.class);
+//        for(filklasser.Fil fil: filer) {
 //            System.out.println(fil.getFilename());
 //        }
 //    }

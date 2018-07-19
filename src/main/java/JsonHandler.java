@@ -23,11 +23,11 @@ public class JsonHandler {
         saveAsFile(fileName, json);
     }
 
-//    public <T> T load(String fileName, Class<T> clazz) {
-//        String fileText = loadFile(fileName);
-//        Gson gson = getGson();
-//        return gson.fromJson(fileText, clazz);
-//    }
+    public <T> T load(String fileName, Class<T> clazz) {
+        String fileText = loadFile(fileName);
+        Gson gson = getGson();
+        return gson.fromJson(fileText, clazz);
+    }
 
     private void saveAsFile(String fileName, String json){
         File file = getFile(fileName);
@@ -38,14 +38,15 @@ public class JsonHandler {
         }
     }
 
-//    private String loadFile(String fileName){
-//        try(InputStream inputStream = new FileInputStream(getFile(fileName))){
-//            return IOUtils.toString(inputStream, StandardCharsets.UTF_8);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//        return null;
-//    }
+    private String loadFile(String fileName){
+        try {
+            InputStream inputStream = new FileInputStream(getFile(fileName));
+            return IOUtils.toString(inputStream, StandardCharsets.UTF_8);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
 
     public File getFile(String fileName){
         File folder = new File(directory);
