@@ -1,4 +1,4 @@
-ODO-EMBR/06: Ikke tilgang
+﻿ODO-EMBR/06: Ikke tilgang
 PHYS118: eks-2007h-svar.pdf - https://mitt.uib.no/files/32584/download?download_frd=1&verifier=NftLd9rqKWzxV3BYQuls0b8CbuHaniAwDLkc8sN1
 PHYS118: eks-2007h.pdf - https://mitt.uib.no/files/32583/download?download_frd=1&verifier=OIwYp4BZRa5TMvmIZZJxCgJRr7XOt1qfxCHeebYI
 PHYS118: eks-2008h-svar.pdf - https://mitt.uib.no/files/32586/download?download_frd=1&verifier=cozt8iAbF9NpSKgQn1nUcxTrc2iHJjIgkewfrJMH
@@ -7,7 +7,7 @@ PHYS118: eks-2009h-svar.pdf - https://mitt.uib.no/files/32588/download?download_
 PHYS118: eks-2009h.pdf - https://mitt.uib.no/files/32587/download?download_frd=1&verifier=AQm41J7h4zBbksFUsWCKg5Ig2EfAhC8Cpf5BmS3R
 PHYS118: eks-2010h-loesning.pdf - https://mitt.uib.no/files/32589/download?download_frd=1&verifier=y6XmG1rd467q4DWqVZ6g8xgztlwVlwaQKC2UpdcZ
 PHYS118: eks-2011v-loesning.pdf - https://mitt.uib.no/files/32590/download?download_frd=1&verifier=cgDvbo9UirI3ii5XxSgbFdKWH7bPYLOAA4YWm9dK
-PHYS118: eks-2012v-loesning.pdf - https://mitt.uib.no/files/32591/download?download_frd=1&verifier=UvO8IzUIbZhRLwTmacjDtT606be6mx8A95HxgW8g
+PHYS118: eks-20dasd12v-loesning.pdf - https://mitt.uib.no/files/32591/download?download_frd=1&verifier=UvO8IzUIbZhRLwTmacjDtT606be6mx8A95HxgW8g
 PHYS118: eks-b-2011h-svar.pdf - https://mitt.uib.no/files/32592/download?download_frd=1&verifier=JK9ecZZY9OcT1bPL5SmiwBEGT9LaFe2fwWkyZYQA
 PHYS118: eks-b-2012h-svar.pdf - https://mitt.uib.no/files/32594/download?download_frd=1&verifier=9wPwoRDk4z7jAqZ3YfKl2iEtqV6JDqL2wkduQIki
 PHYS118: eks-b-2012h.pdf - https://mitt.uib.no/files/32593/download?download_frd=1&verifier=T4msr6V0eKlZZPeSR3jIQdykh1Jgs4QbGDCPzpq4
