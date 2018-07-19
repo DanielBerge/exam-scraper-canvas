@@ -1,0 +1,5 @@
+/*.storage
+target/
+emner/
+storage/
+foldernames.txt
