@@ -28,4 +28,5 @@ emner/
 storage/
 .json/
 target/
+*.iml
 
