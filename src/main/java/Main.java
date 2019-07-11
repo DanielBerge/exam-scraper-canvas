@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static final String ACCESS_TOKEN = "4sBneJ6YpxhRoZI4OcLjJ0bFi3QCgBH3WsAm3uFvZSNX18gyj2QAiWLLDmsUMyvZ";
+    public static final String ACCESS_TOKEN = "CANVAS ACCESS TOKEN";
 
     public static void main(String[] args) {
         //addFolderNamesToFile();
