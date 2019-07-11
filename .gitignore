@@ -25,6 +25,7 @@ hs_err_pid*
 # Mine egne
 *.txt
 emner/
-storage/*.json
+storage/
+.json/
 target/
 
